@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hunger/static/css/main.0ea224d4.css",
+    "main.js": "/hunger/static/js/main.0cf53028.js",
+    "index.html": "/hunger/index.html",
+    "main.0ea224d4.css.map": "/hunger/static/css/main.0ea224d4.css.map",
+    "main.0cf53028.js.map": "/hunger/static/js/main.0cf53028.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ea224d4.css",
+    "static/js/main.0cf53028.js"
+  ]
+}
